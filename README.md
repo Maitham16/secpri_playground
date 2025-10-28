@@ -2,3 +2,5 @@
 # helpful for security and privacy engineering
 # by Maitham Al-rubaye
 # AI like ChatGPT, Grok, claude, Gemini may have been used to assist in code generation.
+# each file contains challenges solutions in orders as per the website.
+# all flags are tested before pushing them here.
